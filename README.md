@@ -198,4 +198,4 @@ MIT
 
 ---
 
-*Built with Python. Inspired by [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) and [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills).*
+*Built with Python.*
